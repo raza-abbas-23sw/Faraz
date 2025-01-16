@@ -69,7 +69,8 @@ input[type="number"]::-webkit-outer-spin-button {
 }
 .btns-cont > div input:hover{
     background-color: #fcb707;
-    color:#fff;
+      color: #fff;
+
 }
 .btns-cont > div .equal{
     background-color: #fcb707;
